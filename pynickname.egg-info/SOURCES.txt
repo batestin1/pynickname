@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+pynickname/__init__.py
+pynickname/pynickname.py
+pynickname.egg-info/PKG-INFO
+pynickname.egg-info/SOURCES.txt
+pynickname.egg-info/dependency_links.txt
+pynickname.egg-info/top_level.txt
